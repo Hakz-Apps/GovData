@@ -1,0 +1,9 @@
+requests
+json
+pandas
+xlsxwriter
+os
+sys
+getopt
+string
+concurrent.futures

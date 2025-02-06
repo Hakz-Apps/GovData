@@ -1,4 +1,14 @@
-__NOTE: The full research paper is included at [https://github.com/Hakz-Apps/GovData/blob/main/Identity-Linked%20Risks%20on%20Data-Gov.pdf](https://github.com/Hakz-Apps/GovData/blob/main/Identity-Linked%20Risks%20on%20Data-Gov.pdf)__
+```
+█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
+█   ▄▄█▀▀▀█▄█                    ▀███▀▀▀██▄           ██            █
+█ ▄██▀     ▀█                      ██    ▀██▄         ██            █
+█ ██▀       ▀  ▄██▀██▄▀██▀   ▀██▀  ██     ▀██▄█▀██▄ ██████ ▄█▀██▄   █
+█ ██          ██▀   ▀██ ██   ▄█    ██      ███   ██   ██  ██   ██   █
+█ ██▄    ▀██████     ██  ██ ▄█     ██     ▄██▄█████   ██   ▄█████   █
+█ ▀██▄     ██ ██▄   ▄██   ███      ██    ▄██▀█   ██   ██  ██   ██   █
+█   ▀▀███████  ▀█████▀     █     ▄████████▀ ▀████▀██▄ ▀████████▀██▄ █
+█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
+```
 
 IDENTITY-LINKED RISKS ON DATA.GOV
 =================================
@@ -11,6 +21,12 @@ IDENTITY-LINKED RISKS ON DATA.GOV
 > cybersecurity risks without reducing transparency by verifying
 > user identities, establishing stricter access controls, truncating
 > high-fidelity workforce datasets, and limiting foreign access.
+
+## References
+* [Full Research Paper](https://github.com/Hakz-Apps/GovData/blob/main/Identity-Linked%20Risks%20on%20Data-Gov.pdf)
+* [Collector Python Script](https://github.com/Hakz-Apps/GovData/blob/main/collector.py)
+* [Inferrer Python Script](https://github.com/Hakz-Apps/GovData/blob/main/inferrer.py)
+* [Validator Python Script](https://github.com/Hakz-Apps/GovData/blob/main/validator.py)
 
 # 1. What is Data.Gov?
 Since Congress enacted the OPEN Government Act in 2007,
